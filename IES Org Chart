@@ -1,318 +1,704 @@
-<mxfile host="app.diagrams.net" modified="2020-03-16T07:23:53.437Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="2PzVyglDfTTjNwhb56x-" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-16T10:27:26.526Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="2Vo2exse-OPHGtTy8zNh" version="12.8.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4024" dy="-1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-690" y="210" width="1720" height="1060" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-145" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="2460" width="2860" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-148" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="3229" width="2860" height="361" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-147" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="2750" width="2860" height="470" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="720" y="60" width="180" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="1" vertex="1">
+            <mxGeometry x="100" y="2470" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="OAvQtVQxd2k9AgZYEVhh-33" edge="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dNxyNK7c78bLwvsdeMH5-12" target="OAvQtVQxd2k9AgZYEVhh-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="110" as="targetPoint" />
+            <mxPoint x="200" y="2544" as="sourcePoint" />
+            <mxPoint x="140" y="2536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-34" source="OAvQtVQxd2k9AgZYEVhh-33" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-34" source="OAvQtVQxd2k9AgZYEVhh-33" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="150" as="sourcePoint" />
+            <mxPoint x="340" y="2576" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-18" source="OAvQtVQxd2k9AgZYEVhh-41" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-18" source="OAvQtVQxd2k9AgZYEVhh-41" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="804" y="380" as="sourcePoint" />
+            <mxPoint x="194" y="2806" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="594" y="510" />
+              <mxPoint x="-120" y="3210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-18" target="OAvQtVQxd2k9AgZYEVhh-68">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-18" target="OAvQtVQxd2k9AgZYEVhh-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-18" target="OAvQtVQxd2k9AgZYEVhh-81">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-18" target="OAvQtVQxd2k9AgZYEVhh-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="3429" />
+              <mxPoint x="-375" y="3429" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-18" target="OAvQtVQxd2k9AgZYEVhh-82">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-18" target="OAvQtVQxd2k9AgZYEVhh-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="3545" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Signe Overå" position="Custom Development SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="250" y="540" width="200" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+            <mxGeometry x="-580" y="3281" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-19" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-20" source="OAvQtVQxd2k9AgZYEVhh-41" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-19" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-20" source="OAvQtVQxd2k9AgZYEVhh-41" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="804" y="380" as="sourcePoint" />
+            <mxPoint x="194" y="2806" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="694" y="510" />
+              <mxPoint x="70" y="3210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-20" target="OAvQtVQxd2k9AgZYEVhh-62">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-20" target="OAvQtVQxd2k9AgZYEVhh-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-20" target="OAvQtVQxd2k9AgZYEVhh-79">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-20" target="OAvQtVQxd2k9AgZYEVhh-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="3429" />
+              <mxPoint x="35" y="3429" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-20" target="OAvQtVQxd2k9AgZYEVhh-80">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-20" target="OAvQtVQxd2k9AgZYEVhh-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-174.99999999999955" y="3451" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="3540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-20">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="480" y="540" width="200" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="-170" y="3281" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Adan Plaza&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Europe Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-33">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="720" y="150" width="180" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="1">
+            <mxGeometry x="100" y="2564" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Thomas Nyström&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Nordic Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-34">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="720" y="240" width="180" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="1">
+            <mxGeometry x="100" y="2654" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-40" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-41" source="OAvQtVQxd2k9AgZYEVhh-34" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-40" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-41" source="OAvQtVQxd2k9AgZYEVhh-34" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="250" as="sourcePoint" />
+            <mxPoint x="100" y="2676" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-56">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-56">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="320" as="sourcePoint" />
-            <mxPoint x="1430" y="450" as="targetPoint" />
+            <mxPoint x="650" y="2746" as="sourcePoint" />
+            <mxPoint x="1560" y="3046" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="510" />
-              <mxPoint x="1470" y="510" />
+              <mxPoint x="200" y="3210" />
+              <mxPoint x="1560" y="3210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="90" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="-120" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="-330" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="-540" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="310" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="540" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="760" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="980" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-189">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="1200" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-200">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="1420" y="2930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-41" target="OAvQtVQxd2k9AgZYEVhh-206">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="2930" />
+              <mxPoint x="-750" y="2930" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="Tonny Gundersen&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Norway Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-41">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="720" y="330" width="180" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="100" y="2756" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-46" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-47" source="OAvQtVQxd2k9AgZYEVhh-41" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-46" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-47" source="OAvQtVQxd2k9AgZYEVhh-41" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="694" y="360" as="sourcePoint" />
+            <mxPoint x="84" y="2786" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="280" y="3210" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-47" target="OAvQtVQxd2k9AgZYEVhh-60">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-47" target="OAvQtVQxd2k9AgZYEVhh-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-47" target="OAvQtVQxd2k9AgZYEVhh-76">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-47" target="OAvQtVQxd2k9AgZYEVhh-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="3431" />
+              <mxPoint x="439" y="3431" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-47" target="OAvQtVQxd2k9AgZYEVhh-78">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-47" target="OAvQtVQxd2k9AgZYEVhh-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="3451" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="334" y="3545" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="Jon Fagerholm&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Senior Architecture &amp;amp; Development Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-47">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="710" y="540" width="200" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="234" y="3281" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-48" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-49" source="OAvQtVQxd2k9AgZYEVhh-41" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-48" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-49" source="OAvQtVQxd2k9AgZYEVhh-41" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="694" y="360" as="sourcePoint" />
+            <mxPoint x="84" y="2786" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="874" y="510" />
+              <mxPoint x="490" y="3210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-49" target="OAvQtVQxd2k9AgZYEVhh-70">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-49" target="OAvQtVQxd2k9AgZYEVhh-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-49" target="OAvQtVQxd2k9AgZYEVhh-96">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-49" target="OAvQtVQxd2k9AgZYEVhh-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="3431" />
+              <mxPoint x="855" y="3431" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-49" target="OAvQtVQxd2k9AgZYEVhh-93">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-49" target="OAvQtVQxd2k9AgZYEVhh-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="3431" />
+              <mxPoint x="645" y="3431" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="Ramon Arellano&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;AI SubDTE Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-49">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="940" y="540" width="200" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="650" y="3281" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-52" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-53" source="OAvQtVQxd2k9AgZYEVhh-41" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-52" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-53" source="OAvQtVQxd2k9AgZYEVhh-41" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="694" y="360" as="sourcePoint" />
+            <mxPoint x="84" y="2786" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="974" y="510" />
+              <mxPoint x="680" y="3210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-53" target="OAvQtVQxd2k9AgZYEVhh-72">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-53" target="OAvQtVQxd2k9AgZYEVhh-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-53" target="OAvQtVQxd2k9AgZYEVhh-97">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-53" target="OAvQtVQxd2k9AgZYEVhh-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="3431" />
+              <mxPoint x="1265" y="3431" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-53" target="OAvQtVQxd2k9AgZYEVhh-94">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-53" target="OAvQtVQxd2k9AgZYEVhh-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="3431" />
+              <mxPoint x="1055" y="3431" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="&lt;font color=&quot;#000000&quot;&gt;Kristian Bjerke-Gulstuen&lt;br&gt;&lt;/font&gt;&lt;i style=&quot;color: gray&quot;&gt;Quality Engineering SubDTE Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-53">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#67AB9F;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1170" y="540" width="200" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#67AB9F;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="1060" y="3281" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-56" target="OAvQtVQxd2k9AgZYEVhh-74">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-56" target="OAvQtVQxd2k9AgZYEVhh-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-56" target="OAvQtVQxd2k9AgZYEVhh-99">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-56" target="OAvQtVQxd2k9AgZYEVhh-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="3431" />
+              <mxPoint x="1660" y="3431" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-56" target="OAvQtVQxd2k9AgZYEVhh-95">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-56" target="OAvQtVQxd2k9AgZYEVhh-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="3431" />
+              <mxPoint x="1460" y="3431" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="&lt;font color=&quot;#000000&quot;&gt;Nina Bergli&lt;br&gt;&lt;/font&gt;&lt;i style=&quot;color: gray&quot;&gt;Bergen &lt;br&gt;SubDTE Lead&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-56">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#99FFFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1400" y="540" width="200" height="70" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#99FFFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="1460" y="3281" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-58" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-59" source="OAvQtVQxd2k9AgZYEVhh-41" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <UserObject label="Gry Skårbø&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-60">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="354" y="3371" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Nina Kylstad&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-62">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="-50" y="3369" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Kamilla Rust&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-66">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-870" y="3369" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Marius Torsrud&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-68">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+            <mxGeometry x="-460" y="3369" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Michael Magnussen&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-70">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="770" y="3369" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;Erik Gjerdrum&lt;br&gt;&lt;/font&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-72">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#67AB9F;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="1180" y="3369" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;???&lt;br&gt;&lt;/font&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-74">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#99FFFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="1580" y="3369" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Shilpi Tomer?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-76">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="354" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-79">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="-50" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-81">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+            <mxGeometry x="-460" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-82">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+            <mxGeometry x="-155" y="3520" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-83">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-1080" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-84">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-870" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="??&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-93">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="560" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;??&lt;br&gt;&lt;/font&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-94">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#67AB9F;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="970" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;??&lt;/font&gt;&lt;i&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#808080&quot;&gt;Marketing&lt;/font&gt;&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-95">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#99FFFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="1375" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="?&lt;i style=&quot;color: gray&quot;&gt;&lt;br&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-96">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="770" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;Radha Rajagopalan&lt;br&gt;&lt;/font&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-97">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#67AB9F;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="1180" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font color=&quot;#000000&quot;&gt;?&lt;br&gt;&lt;/font&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-99">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#99FFFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+            <mxGeometry x="1580" y="3451" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ørjan Johansen&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Talents SubDTE Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-51">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-990" y="3281" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-51" target="OAvQtVQxd2k9AgZYEVhh-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="360" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="810" y="440" />
+              <mxPoint x="-890" y="3429" />
+              <mxPoint x="-995" y="3429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-51" target="OAvQtVQxd2k9AgZYEVhh-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-890" y="3429" />
+              <mxPoint x="-785" y="3429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-51" target="OAvQtVQxd2k9AgZYEVhh-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-50" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-51" source="OAvQtVQxd2k9AgZYEVhh-41" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="2646" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-340" y="3210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="Joachim Lund&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Norway SiC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-59">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="830" y="420" width="180" height="40" as="geometry" />
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="230" y="2846" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Gry Skårbø&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-60">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="830" y="630" width="170" height="50" as="geometry" />
+        <UserObject label="Simon Litlehamar&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Liquid Studio&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-118">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="440" y="2976" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Nina Kylstad&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-62">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="600" y="630" width="170" height="50" as="geometry" />
+        <UserObject label="??&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Onboarding&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-119">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="210" y="2976" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Kamilla Rust&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-66">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="140" y="630" width="170" height="50" as="geometry" />
+        <UserObject label="Marte Jørgensen&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Recruiting&lt;/i&gt;&lt;/font&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-121">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="-10" y="2976" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Marius Torsrud&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-68">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="370" y="630" width="170" height="50" as="geometry" />
+        <UserObject label="Marius Torsrud&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Communities&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-123">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="660" y="2976" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Michael Magnussen&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-70">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1060" y="630" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Erik Gjerdrum&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-72">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#67AB9F;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1290" y="630" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="???&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;SiC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-74">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#99FFFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1520" y="630" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Shilpi Tomer?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-76">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="830" y="690" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="??&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-78">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="830" y="750" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-79">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="600" y="690" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-80">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="600" y="750" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-81">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="370" y="690" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-82">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="370" y="750" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-83">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="140" y="750" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-84">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="140" y="690" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="??&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-93">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1060" y="750" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="??&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Marketing&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-94">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#67AB9F;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1290" y="750" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="??&lt;i style=&quot;color: gray&quot;&gt;&lt;br&gt;Marketing&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-95">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#99FFFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1520" y="750" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="?&lt;i style=&quot;color: gray&quot;&gt;&lt;br&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-96">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1060" y="690" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Radha Rajagopalan&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-97">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#67AB9F;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1290" y="690" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="?&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Training&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-99">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#99FFFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1520" y="690" width="170" height="50" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Ørjan Johansen&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Talents SubDTE Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-51">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="20" y="540" width="200" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-51" target="OAvQtVQxd2k9AgZYEVhh-83">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-124" target="OAvQtVQxd2k9AgZYEVhh-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-51" target="OAvQtVQxd2k9AgZYEVhh-84">
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-124" target="OAvQtVQxd2k9AgZYEVhh-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="OAvQtVQxd2k9AgZYEVhh-51" target="OAvQtVQxd2k9AgZYEVhh-66">
+        <UserObject label="Anders Kolstad&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Hackfest&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-124">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="880" y="2976" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Erik Gjerdrum&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;CC&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-125">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="-220" y="2976" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Radha Rajagopalan&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;Training lvl &amp;gt;= 7&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-126">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="-430" y="2976" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Shilpi Tomer&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;Training lvl &amp;lt; 7&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-127">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="-640" y="2976" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-150" value="&lt;b style=&quot;font-size: 16px&quot;&gt;IES Dimension&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="2760" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-151" value="&lt;b style=&quot;font-size: 16px&quot;&gt;SubDTE Dimension&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="3239" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-152" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="3600" width="2860" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-153" value="&lt;b style=&quot;font-size: 16px&quot;&gt;Community Dimension&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1055" y="3620" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-154" target="OAvQtVQxd2k9AgZYEVhh-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAvQtVQxd2k9AgZYEVhh-50" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="OAvQtVQxd2k9AgZYEVhh-51" source="OAvQtVQxd2k9AgZYEVhh-41" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <UserObject label="Knut-Erik Johnsen&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;DIP Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-154">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-990" y="3660" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-183" target="OAvQtVQxd2k9AgZYEVhh-182">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1014" y="220" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="684" y="510" />
-            </Array>
+            <mxPoint x="-680" y="4030" as="sourcePoint" />
+            <mxPoint x="-540" y="4070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-183" target="OAvQtVQxd2k9AgZYEVhh-184">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-480" y="4070" as="sourcePoint" />
+            <mxPoint x="-480" y="4050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Stein Erik Bungum&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Data Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-156">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-170" y="3660" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-157" target="OAvQtVQxd2k9AgZYEVhh-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-157" target="OAvQtVQxd2k9AgZYEVhh-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-157" target="OAvQtVQxd2k9AgZYEVhh-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-157" target="OAvQtVQxd2k9AgZYEVhh-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Kjell Olav Dale&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;AMP Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-157">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="234" y="3660" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ramon Arellano&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;AI Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-158">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="650" y="3660" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Kristian Bjerke-Gulstuen&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Quality Engineering Lead&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-159">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="1060" y="3660" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Signe Overå&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Leader Group Member&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-160">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-870" y="3750" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Emilie Arentz-Hansen&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Leader Group Member&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-164">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="360" y="3810" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-149" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;International Dimension&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1055" y="2470" width="200" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="Ørjan Johansen" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-181">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1230" y="3060" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Shahariar Bhuiyan&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Leader Group Member&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-182">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-460" y="3750" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gry Skårbø&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Frontend Lead&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-183">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-590" y="3660" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Anders Langseth&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Leader Group Member&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-184">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="-460" y="3810" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Kristian Haugen&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Leader Group Member&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-185">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="360" y="3870" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Jon Fagerholm&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Leader Group Member&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-186">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="360" y="3930" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Thomas Johansen&lt;i style=&quot;color: gray&quot;&gt;Leader Group Member&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-187">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#B3B3B3;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="360" y="3750" width="170" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-189" target="OAvQtVQxd2k9AgZYEVhh-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-189" target="OAvQtVQxd2k9AgZYEVhh-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-189" target="OAvQtVQxd2k9AgZYEVhh-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Gry Skårbø&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Trysiltur&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-189">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1100" y="2976" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Paul P. Sørensen" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-190">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1230" y="3106" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Kamilla Rust&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-191">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1230" y="3152" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Andreas Owe" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-196">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1010" y="3060" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Benjamin Vallestad" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-197">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1010" y="3106" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-200" target="OAvQtVQxd2k9AgZYEVhh-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-200" target="OAvQtVQxd2k9AgZYEVhh-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Marius Torsrud&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128)&quot;&gt;Bachelorprogrammet&lt;br&gt;&lt;/i&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-200">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1320" y="2976" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Kjell Olav Dale" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-201">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1450" y="3060" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Daniel Meinecke" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-202">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="1450" y="3106" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-206" target="OAvQtVQxd2k9AgZYEVhh-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OAvQtVQxd2k9AgZYEVhh-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="OAvQtVQxd2k9AgZYEVhh-206" target="OAvQtVQxd2k9AgZYEVhh-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Kjell Olav Dale&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Lolympics&lt;/i&gt;" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-206">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="-850" y="2976" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Eirik Kjærnli" name="Adam Burden" position="Global Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-207">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="-720" y="3060" width="170" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gabriella Elvin&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Lene Østby" position="Architecture SubDTE Lead" location="" email="" placeholders="1" link="" id="OAvQtVQxd2k9AgZYEVhh-208">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="-720" y="3108" width="170" height="36" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
