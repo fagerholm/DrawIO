@@ -1,1 +1,138 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T10:05:05.168Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="12.8.8" etag="hZ1iHLFDUg_wEcfj-Sji" type="github"><diagram id="ca1LxGEBIDccZXSb8iWL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-09T12:00:07.816Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="n8a4zmGSkRW427Hwlxux" version="12.8.8" type="github">
+  <diagram id="ca1LxGEBIDccZXSb8iWL" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KboHzP32mQRVDrymRRMx-1" value="LightCalculationService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-2" value="LightCalculationController" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-5" value="RuleA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="547" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-6" value="RuleB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="547" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-7" value="RuleC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="547" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-9" target="KboHzP32mQRVDrymRRMx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-9" target="KboHzP32mQRVDrymRRMx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-9" target="KboHzP32mQRVDrymRRMx-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398.86138613861385" y="594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-9" target="KboHzP32mQRVDrymRRMx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-9" value="LightCalculationWorkflow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-12" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-53" target="KboHzP32mQRVDrymRRMx-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="258" y="140" as="sourcePoint" />
+            <mxPoint x="540" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-16" value="&lt;font style=&quot;font-size: 8px&quot;&gt;LightCalculation-&lt;br&gt;RequestDTO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="119" y="202" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-18" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-2" target="KboHzP32mQRVDrymRRMx-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="372.5" y="230" as="sourcePoint" />
+            <mxPoint x="353" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-4" value="&lt;font style=&quot;font-size: 8px&quot;&gt;LightCalculation-&lt;br&gt;ResponseDTO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="422" y="202" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-19" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-2" target="KboHzP32mQRVDrymRRMx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="310" as="sourcePoint" />
+            <mxPoint x="247.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-20" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-1" target="KboHzP32mQRVDrymRRMx-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247.5" y="300" as="sourcePoint" />
+            <mxPoint x="247.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-21" value="&lt;font style=&quot;font-size: 8px&quot;&gt;LightCalculation-&lt;br&gt;RuleInput&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="119" y="297" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-23" value="&lt;font style=&quot;font-size: 8px&quot;&gt;LightCalculation-&lt;br&gt;RuleOutput&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="422" y="297" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-24" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-1" target="KboHzP32mQRVDrymRRMx-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247.5" y="273" as="sourcePoint" />
+            <mxPoint x="247.5" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-25" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KboHzP32mQRVDrymRRMx-9" target="KboHzP32mQRVDrymRRMx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382.5" y="343" as="sourcePoint" />
+            <mxPoint x="370" y="423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-26" value="&lt;font style=&quot;font-size: 8px&quot;&gt;LightCalculation-&lt;br&gt;RuleInput&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="119" y="404" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-27" value="&lt;font style=&quot;font-size: 8px&quot;&gt;LightCalculation-&lt;br&gt;RuleOutput&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="422" y="404" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-40" value="&lt;font style=&quot;font-size: 8px&quot;&gt;LightCalculation-&lt;br&gt;RuleInput&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="119" y="493" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-41" value="&lt;font style=&quot;font-size: 8px&quot;&gt;LightCalculation-&lt;br&gt;RuleOutput&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="422" y="493" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-42" value="LightCalculationIT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-43" value="LightCalculationControllerTest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="265" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-44" value="LightCalculationServiceTest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="348" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-45" value="LightCalculationWorkflowTest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="458" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-46" value="RuleATest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="547" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-47" value="RuleBTest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="547" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-48" value="RuleCTest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="740" y="547" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-49" value="RuleDTest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="810" y="547" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-52" value="RuleD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="547" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-53" value="Consuming Application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KboHzP32mQRVDrymRRMx-55" value="" style="endArrow=none;html=1;strokeWidth=4;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="610" as="sourcePoint" />
+            <mxPoint x="540" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
