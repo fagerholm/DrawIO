@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T16:17:04.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="n2gOFa7cdLYssgKdM-RR" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-06T16:30:04.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="Kms5aus-fY6yPJG2ZA3X" version="14.4.2" type="github" pages="4">
   <diagram id="44pjZZNbckBThAqGyPR0" name="Hent eksterne hendelser">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,6 +225,52 @@
         <mxCell id="7dkvNGdFJBgAYO_HFLq0-22" value="Start prosess" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;dashed=1;" edge="1" target="7dkvNGdFJBgAYO_HFLq0-21" parent="wFuCke1vekVnIJOprQyT-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Prosessering av hendelser synkront" id="Y3jFdXz2hU7dB1uic-CP">
+    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-0" />
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-1" parent="ds6J7VtTK0d5yrMG9gYs-0" />
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-2" value="Kafka Topic" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="ds6J7VtTK0d5yrMG9gYs-1">
+          <mxGeometry x="40" y="40" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-3" value="Leselogikk" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="ds6J7VtTK0d5yrMG9gYs-1">
+          <mxGeometry x="180" y="40" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ds6J7VtTK0d5yrMG9gYs-3">
+          <mxGeometry x="45" y="60" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-6" value="Les hendelse" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;dashed=1;exitX=-0.14;exitY=0.26;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ds6J7VtTK0d5yrMG9gYs-1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="223.5999999999999" y="112.60000000000002" as="sourcePoint" />
+            <mxPoint x="89.5" y="112.60000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-7" value="Prosesserings-logikk" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="ds6J7VtTK0d5yrMG9gYs-1">
+          <mxGeometry x="320" y="40" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ds6J7VtTK0d5yrMG9gYs-7">
+          <mxGeometry x="45" y="80" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-10" value="Utfør prosessering" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;dashed=1;exitX=0.98;exitY=0.39;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ds6J7VtTK0d5yrMG9gYs-1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="234.79999999999995" y="128.89999999999998" as="sourcePoint" />
+            <mxPoint x="369.5" y="128.89999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ds6J7VtTK0d5yrMG9gYs-1">
+          <mxGeometry x="230" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ds6J7VtTK0d5yrMG9gYs-12" value="Juster offset" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;" edge="1" parent="ds6J7VtTK0d5yrMG9gYs-1" target="ds6J7VtTK0d5yrMG9gYs-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="260" y="140" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
