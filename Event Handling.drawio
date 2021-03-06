@@ -1,1 +1,182 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T15:33:03.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" version="14.4.2" etag="IfO9InKUMikSlCu9g4LN" type="github"><diagram id="44pjZZNbckBThAqGyPR0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-06T15:58:46.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="iTRSEOn15guDCKhWx5UT" version="14.4.2" type="github" pages="2">
+  <diagram id="44pjZZNbckBThAqGyPR0" name="Hent eksterne hendelser">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-AQAdww21R5EllDcyWWj-2" value="Eksternt system" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-3" value="Adapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-8" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="506.25" y="200" width="127.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-AQAdww21R5EllDcyWWj-8">
+          <mxGeometry x="46.25" y="-46.25" width="35" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-7" value="Kafka Topic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="-AQAdww21R5EllDcyWWj-8">
+          <mxGeometry x="14" y="7.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-10" value="Opprett hendelse &lt;br&gt;på Kafka Topic" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="-AQAdww21R5EllDcyWWj-4" target="-AQAdww21R5EllDcyWWj-6">
+          <mxGeometry y="50" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="250" as="sourcePoint" />
+            <mxPoint x="670" y="200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-11" value="Hent hendelser &lt;br&gt;fra eksternt &lt;br&gt;system via &lt;br&gt;adapter" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="-AQAdww21R5EllDcyWWj-4" target="-AQAdww21R5EllDcyWWj-3">
+          <mxGeometry x="-0.1667" y="-30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="250" as="sourcePoint" />
+            <mxPoint x="670" y="200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-12" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-AQAdww21R5EllDcyWWj-3" target="-AQAdww21R5EllDcyWWj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="250" as="sourcePoint" />
+            <mxPoint x="590" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-13" value="Hent melding &lt;br&gt;fra eksternt &lt;br&gt;system" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="-AQAdww21R5EllDcyWWj-12">
+          <mxGeometry x="-0.345" y="1" relative="1" as="geometry">
+            <mxPoint x="-17" y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-14" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-4" value="Hendelsesmottak" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="-AQAdww21R5EllDcyWWj-14">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-340/100/Tilda_Icons_1ed_timer-128.png" vertex="1" parent="-AQAdww21R5EllDcyWWj-14">
+          <mxGeometry x="92" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-19" value="Prosesserings-applikasjon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-20" value="Prosesserings-applikasjon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-21" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-AQAdww21R5EllDcyWWj-19" target="-AQAdww21R5EllDcyWWj-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="210" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-22" value="Lytt på &lt;br&gt;hendelser" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="-AQAdww21R5EllDcyWWj-21">
+          <mxGeometry x="-0.3577" y="1" relative="1" as="geometry">
+            <mxPoint x="-30.74" y="-16.03" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-23" value="Stream &lt;br&gt;hendelser" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="-AQAdww21R5EllDcyWWj-20" target="-AQAdww21R5EllDcyWWj-6">
+          <mxGeometry x="-0.5106" y="-31" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="210" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-24" value="Hendelse&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="741" y="73" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-25" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="-AQAdww21R5EllDcyWWj-1" target="-AQAdww21R5EllDcyWWj-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="220" as="sourcePoint" />
+            <mxPoint x="500" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AQAdww21R5EllDcyWWj-26" value="Mellomlagre&lt;br&gt;hendelser" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="-AQAdww21R5EllDcyWWj-25">
+          <mxGeometry x="-0.2649" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" y="-39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O7opFFiD8K8UCtJvytd-" name="Motta eksterne hendelser">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rbksjSDKGQheIVxJr8ZK-0" />
+        <mxCell id="rbksjSDKGQheIVxJr8ZK-1" parent="rbksjSDKGQheIVxJr8ZK-0" />
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-0" value="Eksternt system" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="rbksjSDKGQheIVxJr8ZK-1">
+          <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-2" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="rbksjSDKGQheIVxJr8ZK-1">
+          <mxGeometry x="292.25" y="210" width="127.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z899Mkve1mDAhBm-N3Mr-2">
+          <mxGeometry x="46.25" y="-46.25" width="35" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-4" value="Kafka Topic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="z899Mkve1mDAhBm-N3Mr-2">
+          <mxGeometry x="14" y="7.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-5" value="Opprett hendelse &lt;br&gt;på Kafka Topic" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="rbksjSDKGQheIVxJr8ZK-1" source="z899Mkve1mDAhBm-N3Mr-10" target="z899Mkve1mDAhBm-N3Mr-3">
+          <mxGeometry y="50" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406" y="260" as="sourcePoint" />
+            <mxPoint x="456" y="210" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rbksjSDKGQheIVxJr8ZK-1" source="z899Mkve1mDAhBm-N3Mr-0" target="z899Mkve1mDAhBm-N3Mr-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-44" y="260" as="sourcePoint" />
+            <mxPoint x="66" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-8" value="Send inn &lt;br&gt;hendelse&lt;br&gt;(REST)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="z899Mkve1mDAhBm-N3Mr-7">
+          <mxGeometry x="-0.345" y="1" relative="1" as="geometry">
+            <mxPoint x="15" y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-9" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="rbksjSDKGQheIVxJr8ZK-1">
+          <mxGeometry x="296" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-10" value="Hendelsesmottak" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="z899Mkve1mDAhBm-N3Mr-9">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/education-340/100/Tilda_Icons_1ed_timer-128.png" vertex="1" parent="z899Mkve1mDAhBm-N3Mr-9">
+          <mxGeometry x="92" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-12" value="Prosesserings-applikasjon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="rbksjSDKGQheIVxJr8ZK-1">
+          <mxGeometry x="216" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-13" value="Prosesserings-applikasjon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="rbksjSDKGQheIVxJr8ZK-1">
+          <mxGeometry x="376" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-14" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="rbksjSDKGQheIVxJr8ZK-1" source="z899Mkve1mDAhBm-N3Mr-12" target="z899Mkve1mDAhBm-N3Mr-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236" y="220" as="sourcePoint" />
+            <mxPoint x="286" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-15" value="Lytt på &lt;br&gt;hendelser" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="z899Mkve1mDAhBm-N3Mr-14">
+          <mxGeometry x="-0.3577" y="1" relative="1" as="geometry">
+            <mxPoint x="-30.74" y="-16.03" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-16" value="Stream &lt;br&gt;hendelser" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="rbksjSDKGQheIVxJr8ZK-1" source="z899Mkve1mDAhBm-N3Mr-13" target="z899Mkve1mDAhBm-N3Mr-3">
+          <mxGeometry x="-0.5106" y="-31" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236" y="220" as="sourcePoint" />
+            <mxPoint x="286" y="170" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-17" value="Hendelse&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="rbksjSDKGQheIVxJr8ZK-1">
+          <mxGeometry x="527" y="83" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-18" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="rbksjSDKGQheIVxJr8ZK-1" source="z899Mkve1mDAhBm-N3Mr-11" target="z899Mkve1mDAhBm-N3Mr-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236" y="230" as="sourcePoint" />
+            <mxPoint x="286" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z899Mkve1mDAhBm-N3Mr-19" value="Mellomlagre&lt;br&gt;hendelser" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="z899Mkve1mDAhBm-N3Mr-18">
+          <mxGeometry x="-0.2649" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" y="-39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
