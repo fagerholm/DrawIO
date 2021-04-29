@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T18:51:26.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="yDkEVPUlHQ0-Pk0POCal" version="14.6.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-29T06:31:34.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="L1mS47GFCXds4skfZkK6" version="14.6.6" type="github" pages="6">
   <diagram id="qL3Iub1JLl3_rDEK1Apu" name="Oppgaver og arkportal">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -862,8 +862,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LcOxwXmRtR1VQLhMbkve" name="Page-5">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="LcOxwXmRtR1VQLhMbkve" name="Archimate">
+    <mxGraphModel dx="2249" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="beXS9lnlScydzBEZLmra-0" />
         <mxCell id="beXS9lnlScydzBEZLmra-1" parent="beXS9lnlScydzBEZLmra-0" />
@@ -986,6 +986,23 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p-e0af6EmSrkQuiaj6w2" name="Page-6">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="r5L4ayLtSzmdwNIrfvcS-0" />
+        <mxCell id="r5L4ayLtSzmdwNIrfvcS-1" parent="r5L4ayLtSzmdwNIrfvcS-0" />
+        <mxCell id="r5L4ayLtSzmdwNIrfvcS-2" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="r5L4ayLtSzmdwNIrfvcS-1">
+          <mxGeometry x="70" y="80" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="r5L4ayLtSzmdwNIrfvcS-3" value="Systemeier" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="r5L4ayLtSzmdwNIrfvcS-1">
+          <mxGeometry x="70" y="80" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r5L4ayLtSzmdwNIrfvcS-5" value="&lt;ul&gt;&lt;li&gt;Endelig beslutningstaker for et system eller delsystem&lt;/li&gt;&lt;li&gt;Eier og driver overordnede arkitekturbeslutninger for sitt system&lt;/li&gt;&lt;li&gt;Ansvarlig for kvalitet på løsning of tilhørende dokumentasjon&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="r5L4ayLtSzmdwNIrfvcS-1">
+          <mxGeometry x="85" y="110" width="390" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
