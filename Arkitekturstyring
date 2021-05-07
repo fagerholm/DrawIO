@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T12:54:03.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="cOo0IrRvNI0p7NvxC_Zo" version="14.6.9" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-05-07T13:59:09.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="OIcDiyJPSzyEy0xQq4d4" version="14.6.9" type="github" pages="11">
   <diagram id="qL3Iub1JLl3_rDEK1Apu" name="Oppgaver og arkportal">
     <mxGraphModel dx="2249" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1270,6 +1270,26 @@
         </mxCell>
         <mxCell id="aP3XlMXc935bkRhuNLF6-20" value="&lt;b style=&quot;font-size: 17px&quot;&gt;Top-Down&lt;br&gt;Command &amp;amp; Control&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
           <mxGeometry x="575" y="85" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AwQecGIhDOuIHTSrYugi" name="Page-11">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="IqUwChlaBdeun6R2Zwbk-0" />
+        <mxCell id="IqUwChlaBdeun6R2Zwbk-1" parent="IqUwChlaBdeun6R2Zwbk-0" />
+        <mxCell id="IqUwChlaBdeun6R2Zwbk-2" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;Arkitekturutvikling tilpasset&lt;br&gt;Lean, agile prosesser og tankesett som f.eks i SAFe rammeverket&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;fontStyle=1" vertex="1" parent="IqUwChlaBdeun6R2Zwbk-1">
+          <mxGeometry x="90" y="80" width="550" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IqUwChlaBdeun6R2Zwbk-3" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;Innovasjonssentre&lt;br&gt;for uttesting og/eller operasjonalisering av nye og kreative arkitekturer/kapabilliteter&amp;nbsp;&lt;br&gt;på teoretisk og praktisk nivå. Leverandøren har dette gjennom ulike&lt;br&gt;konsepter som IBM Garage og Accenture Innovation Hub.&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;fontStyle=1" vertex="1" parent="IqUwChlaBdeun6R2Zwbk-1">
+          <mxGeometry x="90" y="170" width="550" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IqUwChlaBdeun6R2Zwbk-4" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;Bruker- og&lt;br&gt;behovsdrevet arkitekturutvikling eksempelvis gjennom anvendelse av NATO&lt;br&gt;Capstone tankegods og eventuelt bruk av «mission threads»-metoden for&lt;br&gt;dokumentasjon av operative behov og effektmål.&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;fontStyle=1" vertex="1" parent="IqUwChlaBdeun6R2Zwbk-1">
+          <mxGeometry x="90" y="260" width="550" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IqUwChlaBdeun6R2Zwbk-5" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;quot;calibri&amp;quot; , sans-serif&quot;&gt;Samkjøring av&lt;br&gt;arkitekturarbeidet av IKT kapabiliteter med operativt planlegging for å sikre&lt;br&gt;en helhetlig tilnærming til operative kapabiliteter og en operativt syn på&lt;br&gt;anvendelse av arkitekturstyring. Fra «dokumentasjon» -&amp;gt; «styring» -&amp;gt;&lt;br&gt;«ledelse»&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;glass=0;sketch=0;fontSize=14;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;fontStyle=1" vertex="1" parent="IqUwChlaBdeun6R2Zwbk-1">
+          <mxGeometry x="90" y="350" width="550" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
