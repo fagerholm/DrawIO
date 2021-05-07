@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T12:30:36.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="fI5Vtf1mDHtAUO-dFZNo" version="14.6.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-05-07T12:48:37.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="AyiV_X889cO3MBsxYuJb" version="14.6.9" type="github" pages="10">
   <diagram id="qL3Iub1JLl3_rDEK1Apu" name="Oppgaver og arkportal">
     <mxGraphModel dx="2249" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1208,6 +1208,68 @@
         </mxCell>
         <mxCell id="yulHGHKootqqJ1QMJ1W5-17" value="Utfør oppgave" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;rectStyle=rounded;size=10;taskMarker=abstract;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="yulHGHKootqqJ1QMJ1W5-1">
           <mxGeometry x="560" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y3rfFSOKA7Lsf7JXbrob" name="Page-10">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-0" />
+        <mxCell id="aP3XlMXc935bkRhuNLF6-1" parent="aP3XlMXc935bkRhuNLF6-0" />
+        <mxCell id="aP3XlMXc935bkRhuNLF6-2" value="&lt;b&gt;Overordnede arkitekurføringer og prinsipper&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="120" y="120" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-4" value="&lt;b&gt;Store målarkitekturer med høy detaljeringsgrad&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="640" y="120" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-5" value="&lt;b&gt;Arkitekturbeslutninger tas så tett på behovet som mulig&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="120" y="200" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-6" value="&lt;b&gt;Arkitekturbeslutninger tas så tidlig som mulig&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="640" y="200" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-7" value="&lt;b&gt;Teknologibeslutninger tas så tett på behovet som mulig&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="120" y="280" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-8" value="&lt;b&gt;Teknologibeslutninger tas så tidlig som mulig&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="640" y="280" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-9" value="&lt;b&gt;Fokus på modularisering av tjenester og definisjon av grensesnitt underveis&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="120" y="360" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-10" value="&lt;b&gt;Definisjon av hele tjenesteporteføljen på forhånd&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="640" y="360" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-11" value="&lt;b&gt;Arkitekturstyring med Top-Down OG Bottom-Up&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="120" y="440" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-12" value="&lt;b&gt;Arkitekturstyring med Top-Down ELLER Bottom-Up&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="640" y="440" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-13" value="&lt;b&gt;Arkitektutvikling med utstrakt eksperimentering&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="120" y="520" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-14" value="&lt;b&gt;Arkitekturutvikling med utstrakt analyse og spesifisering&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="640" y="520" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-15" value="&lt;b&gt;Arkitektutvikling av nye kapabiliteter basert på aktuelle behov&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="120" y="600" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-16" value="&lt;b&gt;Arkitektutvikling av nye kapabiliteter basert på antatte behov&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;shadow=1;glass=0;sketch=0;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="640" y="600" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.58;dx=91;notch=0;shadow=1;glass=0;sketch=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="420" y="120" width="180" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Fremfor&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="460" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-19" value="&lt;b style=&quot;font-size: 17px&quot;&gt;Lean Enterprise Architecture / &lt;br&gt;Open Agile Architecture / &lt;br&gt;Evolutionary Architecture&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="130" y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aP3XlMXc935bkRhuNLF6-20" value="&lt;b style=&quot;font-size: 17px&quot;&gt;Tradisjonell Up-Front modell&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="aP3XlMXc935bkRhuNLF6-1">
+          <mxGeometry x="650" y="45" width="250" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
