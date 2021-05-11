@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T15:57:00.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="rKMX7pUxnFG9u8bdWzLF" version="14.6.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-05-11T07:25:13.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="GuOr8mi425hOBhzkDoCC" version="14.6.10" type="github" pages="12">
   <diagram id="qL3Iub1JLl3_rDEK1Apu" name="Oppgaver og arkportal">
-    <mxGraphModel dx="2249" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1031,7 +1031,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p-e0af6EmSrkQuiaj6w2" name="Roller">
-    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="r5L4ayLtSzmdwNIrfvcS-0" />
         <mxCell id="r5L4ayLtSzmdwNIrfvcS-1" parent="r5L4ayLtSzmdwNIrfvcS-0" />
@@ -1099,152 +1099,152 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Roller Utvidet" id="R3vvJPLkfidfn6OP8obl">
-    <mxGraphModel dx="2844" dy="2643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7Ci1kysHVPfSsCqROZXT-0" />
         <mxCell id="7Ci1kysHVPfSsCqROZXT-1" parent="7Ci1kysHVPfSsCqROZXT-0" />
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-2" target="7Ci1kysHVPfSsCqROZXT-7">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-2" target="7Ci1kysHVPfSsCqROZXT-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-2" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-2" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="550" y="-239" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-3" value="Ansvarlig arkitekt IT" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-3" value="Ansvarlig arkitekt IT" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="550" y="-238" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="550" y="-199" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-5" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Beslutningstaker for IT sett under ett&lt;/li&gt;&lt;li&gt;Eier og driver overordnede arkitekturbeslutninger for IT&lt;/li&gt;&lt;li&gt;Typisk en person for IT samlet&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-5" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Beslutningstaker for IT sett under ett&lt;/li&gt;&lt;li&gt;Eier og driver overordnede arkitekturbeslutninger for IT&lt;/li&gt;&lt;li&gt;Typisk en person for IT samlet&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="610" y="-209" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-6" target="7Ci1kysHVPfSsCqROZXT-15">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-6" target="7Ci1kysHVPfSsCqROZXT-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-6" target="7Ci1kysHVPfSsCqROZXT-11">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-6" target="7Ci1kysHVPfSsCqROZXT-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-6" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-6" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="550" y="-10" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-7" value="Leder Arkitekturteam" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-7" value="Leder Arkitekturteam" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="550" y="-10" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="550" y="30" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-9" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Eier og driver tekniske beslutninger innenfor sitt område&lt;/li&gt;&lt;li&gt;Koordinerer og driver fremdrift på arkitekturområdet&lt;/li&gt;&lt;li&gt;Ansvarlig for arkitekturkvalitet og systemdokumentasjon&lt;/li&gt;&lt;li&gt;Typisk en slik rolle per arkitekturteam, ved flere&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-9" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Eier og driver tekniske beslutninger innenfor sitt område&lt;/li&gt;&lt;li&gt;Koordinerer og driver fremdrift på arkitekturområdet&lt;/li&gt;&lt;li&gt;Ansvarlig for arkitekturkvalitet og systemdokumentasjon&lt;/li&gt;&lt;li&gt;Typisk en slik rolle per arkitekturteam, ved flere&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="600" y="20" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-10" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-10" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="80" y="230" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-11" value="Løsningsarkitekt" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-11" value="Løsningsarkitekt" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="80" y="230" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="80" y="270" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-13" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;&lt;span&gt;Driver arbeidet med kontinuerlige funksjonelle forbedringer i arkitekturen&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Driver arbeidet med utforming av&amp;nbsp;&lt;/span&gt;løsningbeskrivelser&lt;/li&gt;&lt;li&gt;Typisk flere innenfor hvert arkikekturteam. Kan også operere på tvers av arkitekturteam&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-13" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;&lt;span&gt;Driver arbeidet med kontinuerlige funksjonelle forbedringer i arkitekturen&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Driver arbeidet med utforming av&amp;nbsp;&lt;/span&gt;løsningbeskrivelser&lt;/li&gt;&lt;li&gt;Typisk flere innenfor hvert arkikekturteam. Kan også operere på tvers av arkitekturteam&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="128" y="260" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-14" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-14" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="550" y="230" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-15" value="Teknisk Arkitekt" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-15" value="Teknisk Arkitekt" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="550" y="230" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="550" y="270" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-17" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Driver arbeidet med kontinuerlige tekniske arkitekturforbedringer&lt;/li&gt;&lt;li&gt;&lt;span&gt;Prosessdriver for tekniske arkitekturbeslutninger&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Ansvarlig for realiseringsdelen av arkitekturen&lt;/li&gt;&lt;li&gt;Biindeledded ned til konstruksjonsteam og andre brukere av arkitekturen&lt;/li&gt;&lt;li&gt;Typisk en rolle med flere underroller innen konstruksjon&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-17" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Driver arbeidet med kontinuerlige tekniske arkitekturforbedringer&lt;/li&gt;&lt;li&gt;&lt;span&gt;Prosessdriver for tekniske arkitekturbeslutninger&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Ansvarlig for realiseringsdelen av arkitekturen&lt;/li&gt;&lt;li&gt;Biindeledded ned til konstruksjonsteam og andre brukere av arkitekturen&lt;/li&gt;&lt;li&gt;Typisk en rolle med flere underroller innen konstruksjon&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="610" y="260" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-18" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-18" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="790" y="530" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-19" value="Andre roller" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-19" value="Andre roller" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="793" y="530" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-20" value="Andre roller knyttet til arkitetkurstyringen, som informasjonsarkitekt, løsningsarkitekter, sikkerhetsarkitekter og tekniske arkitekter, beskrives på tilsvarende måte, inkludert HUKI" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-20" value="Andre roller knyttet til arkitetkurstyringen, som informasjonsarkitekt, løsningsarkitekter, sikkerhetsarkitekter og tekniske arkitekter, beskrives på tilsvarende måte, inkludert HUKI" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="893" y="560" width="335" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-stalker-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-stalker-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="803" y="570" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-22" target="7Ci1kysHVPfSsCqROZXT-45">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-22" target="7Ci1kysHVPfSsCqROZXT-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-22" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-22" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1480" y="-10" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-23" value="Virksomhetsarkitekt" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-23" value="Virksomhetsarkitekt" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1485" y="-10" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1480" y="30" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-25" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Eier og driver virksomhetsbeslutninger&amp;nbsp;&lt;/li&gt;&lt;li&gt;Koordinerer og driver fremdrift på sitt virksomhetsområde&lt;/li&gt;&lt;li&gt;Ansvarlig for arkitekturkvalitet og systemdokumentasjon&lt;/li&gt;&lt;li&gt;Typisk flere tilsvarende roller for hvert sitt virksomhetsområde&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-25" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Eier og driver virksomhetsbeslutninger&amp;nbsp;&lt;/li&gt;&lt;li&gt;Koordinerer og driver fremdrift på sitt virksomhetsområde&lt;/li&gt;&lt;li&gt;Ansvarlig for arkitekturkvalitet og systemdokumentasjon&lt;/li&gt;&lt;li&gt;Typisk flere tilsvarende roller for hvert sitt virksomhetsområde&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1530" y="20" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-26" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-26" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1016" y="230" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-27" value="Sikkerhetsarkitekt" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-27" value="Sikkerhetsarkitekt" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1020" y="230" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1016" y="270" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-29" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;&lt;span&gt;Eier og driver sikkerhetsarkitekturen innad i et arkitekturteam&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Koordinerer og driver fremdrift på arkitekturområdet&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Ansvarlig for sikkerheten i løsningen som er underlagt teamet&lt;/li&gt;&lt;li&gt;Ansvarlig for sikkerhetsdokumentasjon&lt;/li&gt;&lt;li&gt;Typisk en slik rolle per arkitekturteam&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-29" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;&lt;span&gt;Eier og driver sikkerhetsarkitekturen innad i et arkitekturteam&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Koordinerer og driver fremdrift på arkitekturområdet&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Ansvarlig for sikkerheten i løsningen som er underlagt teamet&lt;/li&gt;&lt;li&gt;Ansvarlig for sikkerhetsdokumentasjon&lt;/li&gt;&lt;li&gt;Typisk en slik rolle per arkitekturteam&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1066" y="260" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-30" value="" style="endArrow=none;html=1;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-27" target="7Ci1kysHVPfSsCqROZXT-6">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-30" value="" style="endArrow=none;html=1;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-27" target="7Ci1kysHVPfSsCqROZXT-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="180" as="sourcePoint" />
             <mxPoint x="760" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-33" target="7Ci1kysHVPfSsCqROZXT-23">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;endArrow=none;endFill=0;" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-33" target="7Ci1kysHVPfSsCqROZXT-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-33" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-33" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1480" y="-240" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-34" value="Ansvarlig arkitekt Virksomhet" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-34" value="Ansvarlig arkitekt Virksomhet" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1480" y="-239" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1480" y="-200" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-36" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Beslutningstaker for et virksomhetsområde&lt;/li&gt;&lt;li&gt;Eier og driver overordnede arkitekturbeslutninger for sitt virksomhetsområde&lt;/li&gt;&lt;li&gt;Typisk en person for Virksomhet samlet&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-36" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;Beslutningstaker for et virksomhetsområde&lt;/li&gt;&lt;li&gt;Eier og driver overordnede arkitekturbeslutninger for sitt virksomhetsområde&lt;/li&gt;&lt;li&gt;Typisk en person for Virksomhet samlet&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1540" y="-210" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-39" target="7Ci1kysHVPfSsCqROZXT-11">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" parent="7Ci1kysHVPfSsCqROZXT-1" source="7Ci1kysHVPfSsCqROZXT-39" target="7Ci1kysHVPfSsCqROZXT-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-39" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-39" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="80" y="-10" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-40" value="Løsningsansvarlig" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-40" value="Løsningsansvarlig" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="80" y="-10" width="450" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="80" y="30" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-42" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;&lt;span&gt;Ansvarlig for arkitekturutviklingsdelen av arkitekturportalen&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ende-til-ende-ansvar for løsningens kvalitet&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Typisk en felles for flere arkitekturteam, eller en per arkitekturteam. Ved flere team er det naturlig med en overordnet løsningsarkitekt i tillegg&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-42" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;&lt;span&gt;Ansvarlig for arkitekturutviklingsdelen av arkitekturportalen&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ende-til-ende-ansvar for løsningens kvalitet&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Typisk en felles for flere arkitekturteam, eller en per arkitekturteam. Ved flere team er det naturlig med en overordnet løsningsarkitekt i tillegg&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="128" y="20" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-44" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-44" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1480" y="230" width="450" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-45" value="Funksjonelt ansvarlig" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-45" value="Funksjonelt ansvarlig" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1485" y="230" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-person-128.png;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1480" y="270" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7Ci1kysHVPfSsCqROZXT-47" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;&lt;span&gt;Utførende ansvarlig innenfor sitt virksomhetsfelt&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Jobber i grensesnittet mellom arkitektur og konstruksjon&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Ansvarlig for å følge opp funksjonelle avklaringer&lt;/li&gt;&lt;li&gt;Typisk flere tilsvarende roller med hvert sitt spesifikke funksjonelle område&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="7Ci1kysHVPfSsCqROZXT-1">
+        <mxCell id="7Ci1kysHVPfSsCqROZXT-47" value="&lt;ul style=&quot;text-align: left&quot;&gt;&lt;li&gt;&lt;span&gt;Utførende ansvarlig innenfor sitt virksomhetsfelt&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Jobber i grensesnittet mellom arkitektur og konstruksjon&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Ansvarlig for å følge opp funksjonelle avklaringer&lt;/li&gt;&lt;li&gt;Typisk flere tilsvarende roller med hvert sitt spesifikke funksjonelle område&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="7Ci1kysHVPfSsCqROZXT-1" vertex="1">
           <mxGeometry x="1530" y="260" width="390" height="90" as="geometry" />
         </mxCell>
       </root>
@@ -1434,6 +1434,74 @@
         </mxCell>
         <mxCell id="IqUwChlaBdeun6R2Zwbk-12" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&lt;b&gt;Trend 2: Innovasjon og innovasjonssentre&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#FF6666;strokeWidth=2;" vertex="1" parent="IqUwChlaBdeun6R2Zwbk-1">
           <mxGeometry x="40" y="490" width="510" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JIOZD33bdD27HTzxgygL" name="Page-12">
+    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-0" />
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-1" parent="x8MNa3U0JFU1NXlmxe1W-0" />
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="60" y="-70" width="640" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-2" value="Ansvarlig arkitekt IT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="240" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-3" value="Leder Arkitekturteam" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CCCC;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-4" value="Løsningsansvarlig" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CCCC;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="80" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-5" value="Teknisk Arkitekt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CCCC;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-7" value="Sikkerhetsarkitekt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CCCC;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="400" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;strokeColor=none;fillColor=#FFD966;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;fillColor=#00CCCC;rotation=-180;strokeColor=none;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-10" value="Løsningsarkitekt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-11" value="Ansvarlig arkitekt Virksomhet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="560" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;strokeColor=none;fillColor=#FFD966;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;fillColor=#00CCCC;rotation=-180;strokeColor=none;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-15" value="Virksomhetsarkitekt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;strokeColor=none;fillColor=#FFD966;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;fillColor=#00CCCC;rotation=-180;strokeColor=none;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-18" value="Funksjonelt ansvarlig" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-20" value="&lt;b&gt;Utvalgte roller for arkitekturstyring&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="280" y="-60" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-21" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Strategisk partner&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CCCC;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="594" y="250" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-23" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Forsvaret&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="500" y="250" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x8MNa3U0JFU1NXlmxe1W-24" value="&lt;b&gt;Legend&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="x8MNa3U0JFU1NXlmxe1W-1">
+          <mxGeometry x="440" y="250" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
